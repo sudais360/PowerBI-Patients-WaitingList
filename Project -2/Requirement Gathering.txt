@@ -1,0 +1,33 @@
+Requirement Gathering 
+
+Identify stakeholders:  Establish a point of contact 
+
+Understand Business Objectives: Meetings & Communication
+
+High Level Data Study: Data Sources, Column Description, Data Type, Volume/ Frequency & Data Quality 
+
+Define Scope: Document KPI, Timelines, Expectation etc. 
+
+80 - 20 Rule => keep buffer time than the expected time period
+
+
+
+Overall Objectives 
+
+Project Goals:
+1. Track Current status of patient waiting list 
+2. Analyze historical monthly trend of waiting list in Inpatient & Outpatient categories
+3. Detailed specialty level & age profile analysis
+
+Data Scope 
+2018 - 2021
+
+Metrics Required 
+1. Average & Median Waiting List
+2. current Total Wait List
+
+View Required
+1. Summary Page 
+2. Detailed Page for Granular Analysis 
+
+
